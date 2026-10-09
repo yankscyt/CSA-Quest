@@ -1,0 +1,6 @@
+{
+  "name": "CSA QUEST — ServiceNow Certified System Administrator Exam Prep",
+  "description": "Personal certification preparation command center for the ServiceNow CSA exam with domain mastery, study tracker, mistake notebook, and 60-question mock exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
